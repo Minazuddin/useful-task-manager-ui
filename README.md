@@ -1,3 +1,18 @@
+# useful-task-manager-ui
+
+# Introduction
+
+A User Interface (frontend) that lets users to,
+
+1. Manage Time (Login, Break, Logout)
+
+- Track total hours worked for the day.
+- Customize break and know estimated logout time.
+
+2. Manage Tasks (Add Task, Move To In Progress, Mark as Complete, Manage Tasks with Timer)
+
+
+# Technical Info
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
